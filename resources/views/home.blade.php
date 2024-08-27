@@ -166,7 +166,7 @@
                     Just as cats are known for their independence, I value my own space and enjoy spending time alone, finding comfort in my own company 
                     since I’m actually a shy person, and if we are not close, you’ll think that I’m a cold person(I get that a lot) 
                     because I don’t really like socializing to people, I don’t know. I’m also naturally curious, like exploring new ideas and places, and observing the world around me. 
-                   And also, cats are very cute!
+                   And also, cats are very cute!!!!!    
                 </p>
             </div>
         </div>
