@@ -195,7 +195,7 @@
             <div class="cat-card">
                 <div class="cat-container">
                     <div class="cat-image">
-                        <img src="https://i.pinimg.com/564x/fc/3b/a7/fc3ba705dd2d98af62d708c1216fb12f.jpg" alt="James Anthony O. Rosales">
+                    <img src="{{ asset('assets/images/cat1.jpg') }}" alt="Cat1">
                     </div>
                 </div>
                 <div class="cat-detail">
@@ -206,7 +206,7 @@
             <div class="cat-card">
                 <div class="cat-container">
                     <div class="cat-image">
-                        <img src="https://i.pinimg.com/564x/ee/7b/dd/ee7bdd1c5e0a34a557d02f0653d33260.jpg" alt="Mae Anne B. Bongat">
+                        <img src="{{ asset('assets/images/cat2.jpg') }}" alt="Cat2">
                     </div>
                 </div>
                 <div class="cat-detail">
@@ -217,7 +217,7 @@
             <div class="cat-card">
                 <div class="cat-container">
                     <div class="cat-image">
-                        <img src="https://i.pinimg.com/564x/05/a9/f1/05a9f1e0b9367e693b4b3f86795c681f.jpg" alt="Mae Anne B. Bongat">
+                        <img src="{{ asset('assets/images/cat3.jpg') }}" alt="Cat3">
                     </div> 
                 </div>
                 <div class="cat-detail">
@@ -228,7 +228,7 @@
             <div class="cat-card">
                 <div class="cat-container">
                     <div class="cat-image">
-                        <img src="https://i.pinimg.com/736x/8b/b8/ec/8bb8ecf60d0f200b08c86a2b77ec9bfa.jpg" alt="Mae Anne B. Bongat">
+                        <img src="{{ asset('assets/images/cat4.jpg') }}" alt="Cat4">
                     </div>
                 </div>
                 <div class="cat-detail">
@@ -239,7 +239,7 @@
             <div class="cat-card">
                 <div class="cat-container">
                     <div class="cat-image">
-                        <img src="https://i.pinimg.com/564x/7c/e6/2d/7ce62dc8c7c06be3c643df966962bea0.jpg" alt="Mae Anne B. Bongat">
+                        <img src="{{ asset('assets/images/cat5.jpg') }}" alt="Cat5">
                     </div>
                 </div>
                 <div class="cat-detail">
@@ -250,7 +250,7 @@
             <div class="cat-card">
                 <div class="cat-container">
                     <div class="cat-image">
-                        <img src="https://i.pinimg.com/736x/1d/3d/d3/1d3dd3336cf084f6bfba2118153f2ef0.jpg" alt="Mae Anne B. Bongat">
+                        <img src="{{ asset('assets/images/cat6.jpg') }}" alt="Cat6">
                     </div>
                 </div>
                 <div class="cat-detail">
@@ -261,7 +261,7 @@
             <div class="cat-card">
                 <div class="cat-container">
                     <div class="cat-image">
-                        <img src="https://i.pinimg.com/564x/73/ce/64/73ce64d41c3e920bcdc5006deaa509e0.jpg" alt="Mae Anne B. Bongat">
+                        <img src="{{ asset('assets/images/cat7.jpg') }}" alt="Cat7">
                     </div>
                 </div>
                 <div class="cat-detail">
@@ -272,7 +272,7 @@
             <div class="cat-card">
                 <div class="cat-container">
                     <div class="cat-image">
-                        <img src="https://i.pinimg.com/564x/a7/d0/0e/a7d00ec8d6cb34c2cd6da39107f9a6bd.jpg" alt="Mae Anne B. Bongat">
+                        <img src="{{ asset('assets/images/cat8.jpg') }}" alt="Cat8">
                     </div>
                 </div>
                 <div class="cat-detail">
@@ -283,7 +283,7 @@
             <div class="cat-card">
                 <div class="cat-container">
                     <div class="cat-image">
-                        <img src="https://i.pinimg.com/564x/1e/eb/ff/1eebffe0430373855875965b90ee1951.jpg" alt="Mae Anne B. Bongat">
+                        <img src="{{ asset('assets/images/cat9.jpg') }}" alt="Cat9">
                     </div>
                 </div>
                 <div class="cat-detail">
@@ -294,7 +294,7 @@
             <div class="cat-card">
                 <div class="cat-container">
                     <div class="cat-image">
-                        <img src="https://i.pinimg.com/564x/a2/0a/6c/a20a6c197c92c066daca9ec36e6ec722.jpg" alt="Mae Anne B. Bongat">
+                        <img src="{{ asset('assets/images/cat10.jpg') }}" alt="Cat10">
                     </div>
                 </div>
                 <div class="cat-detail">
